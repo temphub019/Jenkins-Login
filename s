@@ -1,7 +1,18 @@
+agar perhliya hy to top per ack likhdo bus 
 sub project with updated code add kardiya hy neechay you need to add it in your project baki
 jo new files create hoy hy wo bhi add kardi hy manay and jo unchaned hy wo bhi likh diya hy
 add this to your project and codacy and zap karlo. har new file jo create karni hy path k sath name add kardiya hyt manay goodluck
 Zap and codacy apnay khud hy karna hy may apko code bhej raha hu pora project hy
+
+requiremtns to install 
+Flask==3.0.3
+Flask-WTF==1.2.1
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.0.3
+Flask-Limiter==3.5.1
+Flask-Talisman==1.0.0
+
 
 **New application/__init__.py code**
 
