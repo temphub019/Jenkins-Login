@@ -1,8 +1,4 @@
-agar perhliya hy to top per ack likhdo bus 
-sub project with updated code add kardiya hy neechay you need to add it in your project baki
-jo new files create hoy hy wo bhi add kardi hy manay and jo unchaned hy wo bhi likh diya hy
-add this to your project and codacy and zap karlo. har new file jo create karni hy path k sath name add kardiya hyt manay goodluck
-Zap and codacy apnay khud hy karna hy may apko code bhej raha hu pora project hy
+
 
 requiremtns to install 
 Flask==3.0.3
