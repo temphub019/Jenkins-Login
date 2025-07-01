@@ -1,7 +1,1 @@
-
-keep it simple
-btw we are allowed internet
-but not gpt
-so keep that theme
-
-keep stupid mistakes
+Okie but code gpt say hy nikalo ga khud sa mistakes kardo ga
