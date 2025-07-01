@@ -1,1 +1,2 @@
-Okie but code gpt say hy nikalo ga khud sa mistakes kardo ga
+Haan haan
+Bas ajeb sa code ho jaldi jaldi waa type
